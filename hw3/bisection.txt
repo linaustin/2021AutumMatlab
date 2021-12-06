@@ -1,0 +1,8 @@
+iteration    a    b    xNs    f(xNs)    tolerance
+ 10      -5.345703  -5.343750  -5.344727  0.045641  0.000977
+tolerance is too small
+ 10      0.867188  0.869141  0.868164  0.006959  0.000977
+tolerance is too small
+ 10      3.876953  3.878906  3.877930  0.026170  0.000977
+tolerance is too small
+
